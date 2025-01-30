@@ -66,25 +66,21 @@ Phase 2 (Future Plans)
 
     Offer pre-designed form templates for common use cases (e.g., surveys, event registration, feedback).
 
-4. Analytics Dashboard
-
-    Provide advanced analytics and insights, such as graphs and charts for form responses.
-
-5. Notifications
+4. Notifications
 
     Send email or push notifications when a form is submitted or certain responses are received.
     Allow form creators to configure custom alerts.
 
-6. Custom Branding
+5. Custom Branding
 
     Enable form creators to customize the form's look and feel, including branding elements like logos, colors, and fonts.
 
-7. File Handling & Integration
+6. File Handling & Integration
 
     Enhance file upload capabilities with support for larger file sizes and more file types.
     Integration with cloud storage services (e.g., Google Drive, Dropbox).
 
-8. API Integration
+7. API Integration
 
     Provide an API to allow third-party integrations (e.g., syncing form data with other applications).
 
